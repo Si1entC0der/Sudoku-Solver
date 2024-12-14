@@ -11,8 +11,3 @@ This is an interactive **Sudoku Solver** web application built using **ReactJS**
 - **ReactJS**: For building the interactive and dynamic UI.  
 - **JavaScript (ES6)**: Core logic for solving the Sudoku puzzle.  
 - **CSS (or Tailwind CSS, if applicable)**: For styling the application.  
-
-## How to Use  
-1. Clone the repository:  
-   ```bash
-   git clone https://github.com/yourusername/sudoku-solver.git
